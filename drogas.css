@@ -1,7 +1,7 @@
-@import "menu.css";
+@import 'menu.css';
 
 .conteudo{
- width: 100%;
+    width: 100%;
 }
 .rodape{
     width: 100%;
